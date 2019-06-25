@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define ll int64_t
 ll countDivisors(ll n) 
 { 
     ll cnt = 0; 
@@ -13,3 +16,7 @@ ll countDivisors(ll n)
     } 
     return cnt; 
 } 
+int main()
+{
+countDivisors(100);
+}
