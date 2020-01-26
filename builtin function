@@ -1,0 +1,10 @@
+This builtin method is provided by GCC to count the number of leading zero’s in variable.
+int __builtin_clz (unsigned int x)
+
+int__builtin_ctz
+
+This builtin method by GCC determines the count of trailing zero in the binary representation of a number.
+
+int__builtin_popcount
+
+This builtin method by GCC determines the number of one’s in the binary representation of a number.
