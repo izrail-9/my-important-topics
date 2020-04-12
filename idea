@@ -5,3 +5,4 @@ total 3 multiple pice t0 1.
 A number N is a Fibonacci number if 5*N2 ± 4 is a perfect square. Proof is given here On page 418.
 
 any even term fabonacci E(n) can be expressed as E(n)= 4*E(n-1) + E(n-2);
+only 3 4 and 6 have total no of cofector is a prime.
