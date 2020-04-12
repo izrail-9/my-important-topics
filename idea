@@ -1,3 +1,5 @@
 in any substring or subsequence or this type of problem take 1 element,2 lement,3 element and try to find a pattern of result.
 if we want to cut n such that its multiplication is maximium then cut it in multiple of 3 pices. if last piece=1 then make it 4 and remove from 
 total 3 multiple pice t0 1.
+
+A number N is a Fibonacci number if 5*N2 ± 4 is a perfect square. Proof is given here On page 418.
